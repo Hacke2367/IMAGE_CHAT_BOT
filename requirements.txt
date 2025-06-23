@@ -1,0 +1,10 @@
+google-generativeai
+python-dotenv
+Pillow
+torch
+transformers
+diffusers
+huggingface_hub
+streamlit
+datetime
+accelerate
